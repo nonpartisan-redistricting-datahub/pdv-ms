@@ -1,7 +1,7 @@
 # pdv-ms
 Partner data validation for Mississippi, from VEST 2020. 
 
-Our final validation report for this dataset is available [here]().
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-mississippi-precinct-and-election-results/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
