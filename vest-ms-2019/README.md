@@ -17,6 +17,9 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Accessed: 02/11/22, Source: VEST
   - https://dataverse.harvard.edu/file.xhtml?fileId=5862013&version=5.0
 - MS Precinct-Level Election Results
+  - Accessed 03/01/22, Source: Mississippi Secretary of State
+  - https://www.sos.ms.gov/elections-voting/election-results
+- MS Precinct-Level Election Results
   - Accessed: 02/28/22, Source: Open Elections
   - https://github.com/openelections/openelections-data-ms
 - MS Voting Precincts 2020 Shapefile
